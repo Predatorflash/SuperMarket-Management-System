@@ -1,0 +1,17 @@
+E:\study materials\SMMS\SMMS\bin\Debug\SMMS.exe
+E:\study materials\SMMS\SMMS\bin\Debug\SMMS.pdb
+E:\study materials\SMMS\SMMS\bin\Debug\SMMS.xml
+E:\study materials\SMMS\SMMS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\study materials\SMMS\SMMS\obj\x86\Debug\SMMS.af1.resources
+E:\study materials\SMMS\SMMS\obj\x86\Debug\SMMS.af2.resources
+E:\study materials\SMMS\SMMS\obj\x86\Debug\SMMS.LoginForm1.resources
+E:\study materials\SMMS\SMMS\obj\x86\Debug\SMMS.print.resources
+E:\study materials\SMMS\SMMS\obj\x86\Debug\SMMS.sell.resources
+E:\study materials\SMMS\SMMS\obj\x86\Debug\SMMS.af3.resources
+E:\study materials\SMMS\SMMS\obj\x86\Debug\SMMS.user.resources
+E:\study materials\SMMS\SMMS\obj\x86\Debug\SMMS.Resources.resources
+E:\study materials\SMMS\SMMS\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\study materials\SMMS\SMMS\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\study materials\SMMS\SMMS\obj\x86\Debug\SMMS.exe
+E:\study materials\SMMS\SMMS\obj\x86\Debug\SMMS.xml
+E:\study materials\SMMS\SMMS\obj\x86\Debug\SMMS.pdb
